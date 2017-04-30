@@ -2,7 +2,7 @@
 title: Windows Virtual machines overview | Microsoft Docs
 description: Help content for Windows Virtual machines overview within Azure portal
 services: virtual-machines-windows
-author: sewatson
+author: aftabansari
 manager: lwelicki
 
 ms.service: virtual-machines-windows
